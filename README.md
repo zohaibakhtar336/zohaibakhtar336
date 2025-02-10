@@ -50,8 +50,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** with expertise i
 
 ## 📫 Let's Connect  
 
-📩 **Email:** your-email@example.com  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zohaibakhtar336)
+📩 **Email:** zohaibakhtar336@gmail.com  
+💼 **LinkedIn:** [zohaibakhtar336](https://www.linkedin.com/in/zohaibakhtar336)
 
 ---
 
